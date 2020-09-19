@@ -10,9 +10,9 @@
             "request": "launch",
             "preLaunchTask": "build",
             // If you have changed target frameworks, make sure to update the program path.
-            "program": "${workspaceFolder}/HappyNumbers/bin/Debug/netcoreapp3.1/HappyNumbers.dll",
+            "program": "${workspaceFolder}/LargeNumberMultiplication/bin/Debug/netcoreapp3.1/LargeNumberMultiplication.dll",
             "args": [],
-            "cwd": "${workspaceFolder}/HappyNumbers",
+            "cwd": "${workspaceFolder}/LargeNumberMultiplication",
             // For more information about the 'console' field, see https://aka.ms/VSCode-CS-LaunchJson-Console
             "console": "internalConsole",
             "stopAtEntry": false
